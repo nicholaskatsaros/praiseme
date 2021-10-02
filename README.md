@@ -4,6 +4,8 @@
 # praiseme
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/nicholaskatsaros/praiseme/workflows/R-CMD-check/badge.svg)](https://github.com/nicholaskatsaros/praiseme/actions)
 <!-- badges: end -->
 
 The goal of praiseme is to deliver Praise to Someone
